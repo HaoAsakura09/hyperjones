@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyperjones
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C++ and C++
 
 
 <!---
